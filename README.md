@@ -1,7 +1,8 @@
 pique
 =====
 
-Erlang priority queue
+Erlang priority queue.
+
 Separated from https://github.com/rabbitmq/rabbitmq-common
 
 Build
